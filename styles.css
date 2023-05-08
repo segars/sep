@@ -205,12 +205,12 @@ margin-left: 850px;
         max-width: 200px;
     }
     
-            #sep{
+            .sep{
             margin-left: 550px;
         }
 
 
-        #sepp{
+        .sepp{
             margin-left: 600px;
         }
 }
